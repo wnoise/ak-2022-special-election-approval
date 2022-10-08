@@ -9,4 +9,4 @@ obvious adjustments taking place on oddly marked ballots.  Not all of the oddly 
 
 The upshot is under most scenarios, Begich would have won, though if no one wanted their second place, Peltola could have taken it.
 
-[!plot.png]
+[A plot](plot.png)
